@@ -1,2 +1,6 @@
-Django==5.0.14
+Django==6.0.4
+djangorestframework==3.16.1
 python-decouple==3.8
+gunicorn
+djangorestframework-simplejwt
+django-cors-headers
